@@ -9,7 +9,7 @@ Irked | 10.10.10.117 | 20 pts | Active
 Frolic | 10.10.10.111 | 20 pts | Mar 24, 2019
 Dab | 10.10.10.86 | 40 pts | Feb 02, 2019
 Reddish | 10.10.10.94 | 50 pts | Jan 26, 2019
-[Mischief]() | 10.10.10.92 | 50 pts | Jan 06, 2019
+[Mischief](https://hackedthebox.wordpress.com/htb-mischief/) | 10.10.10.92 | 50 pts | Jan 06, 2019
 [Waldo]() | 10.10.10.87 | 30 pts | Dec 16, 2019
 [Active]() | 10.10.10.100 | 20 pts | Dec 09, 2018
 [Hawk]() | 10.10.10.102 | 30 pts | Dec 02, 2018
