@@ -4,7 +4,7 @@ Box Name | Machine IP | Base Points | Retired
 --- | --- | --- | ---
 [FriendZone](https://github.com/jebidiah-anthony/htb_friendzone) | 10.10.10.123 | 20 pts | Active
 Chaos | 10.10.10.120 | 30 pts | Active
-Irked | 10.10.10.117 | 20 pts | Active
+[Irked](https://github.com/jebidiah-anthony/htb_irked) | 10.10.10.117 | 20 pts | Apr 28, 2019
 [Teacher](https://github.com/jebidiah-anthony/htb_teacher) | 10.10.10.153 | 20 pts | Apr 21, 2019
 Frolic | 10.10.10.111 | 20 pts | Mar 24, 2019
 Dab | 10.10.10.86 | 40 pts | Feb 02, 2019
