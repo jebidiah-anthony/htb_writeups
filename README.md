@@ -4,7 +4,7 @@ Box Name | Machine IP | Base Points | Retired
 --- | --- | --- | ---
 [FriendZone](https://github.com/jebidiah-anthony/htb_friendzone) | 10.10.10.123 | 20 pts | Active
 [Help](https://github.com/jebidiah-anthony/htb_help) | 10.10.10.121 | 20 pts | Active
-Chaos | 10.10.10.120 | 30 pts | Active
+[Chaos](https://github.com/jebidiah-anthony/htb_chaos) | 10.10.10.120 | 30 pts | May 26, 2019
 [Lightweight](https://github.com/jebidiah-anthony/htb_lightweight) | 10.10.10.119 | 30 pts | May 12, 2019
 [Irked](https://github.com/jebidiah-anthony/htb_irked) | 10.10.10.117 | 20 pts | Apr 28, 2019
 [Teacher](https://github.com/jebidiah-anthony/htb_teacher) | 10.10.10.153 | 20 pts | Apr 21, 2019
