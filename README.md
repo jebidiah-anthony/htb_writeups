@@ -2,8 +2,8 @@
 
 Box Name | Machine IP | Base Points | Retired
 --- | --- | --- | ---
-[FriendZone](https://github.com/jebidiah-anthony/htb_friendzone) | 10.10.10.123 | 20 pts | Active
 [CTF](https://github.com/jebidiah-anthony/htb_ctf) | 10.10.10.122 | 50 pts | Active
+[FriendZone](https://github.com/jebidiah-anthony/htb_friendzone) | 10.10.10.123 | 20 pts | Jul 13, 2019
 [Flujab](https://github.com/jebidiah-anthony/htb_flujab) | 10.10.10.124 | 40 pts | Jun 15, 2019
 [Help](https://github.com/jebidiah-anthony/htb_help) | 10.10.10.121 | 20 pts | Jun 8, 2019
 [Chaos](https://github.com/jebidiah-anthony/htb_chaos) | 10.10.10.120 | 30 pts | May 25, 2019
