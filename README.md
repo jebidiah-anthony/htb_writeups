@@ -2,7 +2,9 @@
 
 Box Name | Machine IP | Base Points | Retired
 --- | --- | --- | ---
+Luke | 10.10.10.137 | 30 pts | Active
 [KryptOS](https://github.com/jebidiah-anthony/htb_kryptos) | 10.10.10.129 | 50 pts | Active
+OneTwoSeven | 10.10.10.133 | 40 pts | Sep 1, 2019
 [CTF](https://github.com/jebidiah-anthony/htb_ctf) | 10.10.10.122 | 50 pts | Jul 20, 2019
 [FriendZone](https://github.com/jebidiah-anthony/htb_friendzone) | 10.10.10.123 | 20 pts | Jul 13, 2019
 [Flujab](https://github.com/jebidiah-anthony/htb_flujab) | 10.10.10.124 | 40 pts | Jun 15, 2019
