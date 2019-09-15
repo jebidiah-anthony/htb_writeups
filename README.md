@@ -2,8 +2,15 @@
 
 Box Name | Machine IP | Base Points | Retired
 --- | --- | --- | ---
-Luke | 10.10.10.137 | 30 pts | Active
-[KryptOS](https://github.com/jebidiah-anthony/htb_kryptos) | 10.10.10.129 | 50 pts | Active
+Safe | 10.10.10.147 | 20 pts | Active
+Craft | 10.10.10.110 | 30 pts | Active
+Haystack | 10.10.10.115 | 20 pts | Active
+Jarvis | 10.10.10.143 | 30 pts | Active
+WriteUp | 10.10.10.138 | 20 pts | Active
+Ellingson | 10.10.10.139 | 40 pts | Active
+SwagShop | 10.10.10.140 | 20 pts | Active
+[KryptOS] | 10.10.10.129 | 50 pts | Active
+[Luke](https://github.com/jebidiah-anthony/htb_kryptos) | 10.10.10.137 | 30 pts | Sep 14,2019
 OneTwoSeven | 10.10.10.133 | 40 pts | Sep 1, 2019
 [CTF](https://github.com/jebidiah-anthony/htb_ctf) | 10.10.10.122 | 50 pts | Jul 20, 2019
 [FriendZone](https://github.com/jebidiah-anthony/htb_friendzone) | 10.10.10.123 | 20 pts | Jul 13, 2019
