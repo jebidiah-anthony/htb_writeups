@@ -1,4 +1,4 @@
-# HackTheBox (Write-ups)
+# HackTheBox Retired Machines (Write-ups)
 
 ## Insane Boxes
 Box Name | OS | Machine IP | Base Points | Retired
