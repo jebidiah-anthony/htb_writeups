@@ -3,7 +3,6 @@
 ## Insane Boxes
 Box Name | OS | Machine IP | Base Points | Retired
 --- | --- | --- | --- | ---
-SwagShop | Linux | 10.10.10.140 | 20 pts | Active
 [KryptOS](https://github.com/jebidiah-anthony/htb_luke) | Linux | 10.10.10.129 | 50 pts | Active
 [CTF](https://github.com/jebidiah-anthony/htb_ctf) | Linux | 10.10.10.122 | 50 pts | Jul 20, 2019
 Reddish | Linux | 10.10.10.94 | 50 pts | Jan 26, 2019
@@ -34,6 +33,7 @@ Olympus | Linux | 10.10.10.83 | 30 pts | Sep 23, 2018
 [Poison](https://hackedthebox.wordpress.com/htb-poison/) | FreeBSD | 10.10.10.84 | 30 pts | Sep 09, 2018
 [Stratosphere](https://hackedthebox.wordpress.com/htb-stratosphere/) | Linux | 10.10.10.64  | 30 pts | Sep 02, 2018
 Celestial | Linux | 10.10.10.85 | 30 pts | Aug 26, 2018
+Aragog | Linux | 10.10.10.78 | 30 pts | Jul 22, 2018
 
 ## Easy Boxes
 Box Name | OS | Machine IP | Base Points | Retired
@@ -41,6 +41,7 @@ Box Name | OS | Machine IP | Base Points | Retired
 Safe | Linux | 10.10.10.147 | 20 pts | Active
 Haystack | Linux | 10.10.10.115 | 20 pts | Active
 WriteUp | Linux | 10.10.10.138 | 20 pts | Active
+SwagShop | Linux | 10.10.10.140 | 20 pts | Active
 [FriendZone](https://github.com/jebidiah-anthony/htb_friendzone) | Linux | 10.10.10.123 | 20 pts | Jul 13, 2019
 [Help](https://github.com/jebidiah-anthony/htb_help) | Linux | 10.10.10.121 | 20 pts | Jun 8, 2019
 [Irked](https://github.com/jebidiah-anthony/htb_irked) | Linux | 10.10.10.117 | 20 pts | Apr 27, 2019
@@ -50,4 +51,3 @@ Frolic | Linux | 10.10.10.111 | 20 pts | Mar 24, 2019
 [Jerry](https://hackedthebox.wordpress.com/htb-jerry/) | Windows | 10.10.10.95 | 20 pts | Nov 18, 2018
 [Sunday](https://hackedthebox.wordpress.com/htb-sunday/) | Solaris | 10.10.10.76 | 20 pts | Sep 30, 2018
 Valentine | Linux | 10.10.10.79 | 20 pts | Jul 29, 2018
-Aragog | Linux | 10.10.10.78 | 30 pts | Jul 22, 2018
