@@ -38,6 +38,7 @@ Aragog | Linux | 10.10.10.78 | 30 pts | Jul 22, 2018
 ## Easy Boxes
 Box Name | OS | Machine IP | Base Points | Retired
 --- | --- | --- | --- | ---
+Networked | Linux | 10.10.10.146 | 20 pts | Active
 Safe | Linux | 10.10.10.147 | 20 pts | Active
 Haystack | Linux | 10.10.10.115 | 20 pts | Active
 WriteUp | Linux | 10.10.10.138 | 20 pts | Active
