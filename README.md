@@ -3,7 +3,7 @@
 ## Insane Boxes
 Box Name | OS | Machine IP | Base Points | Retired
 --- | --- | --- | --- | ---
-[KryptOS](https://github.com/jebidiah-anthony/htb_kryptos) | Linux | 10.10.10.129 | 50 pts | Active
+[KryptOS](https://github.com/jebidiah-anthony/htb_kryptos) | Linux | 10.10.10.129 | 50 pts | Sep 21, 2019
 [CTF](https://github.com/jebidiah-anthony/htb_ctf) | Linux | 10.10.10.122 | 50 pts | Jul 20, 2019
 Reddish | Linux | 10.10.10.94 | 50 pts | Jan 26, 2019
 [Mischief](https://hackedthebox.wordpress.com/htb-mischief/) | Linux | 10.10.10.92 | 50 pts | Jan 06, 2019
