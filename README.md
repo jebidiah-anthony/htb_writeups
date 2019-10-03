@@ -42,7 +42,7 @@ Networked | Linux | 10.10.10.146 | 20 pts | Active
 Safe | Linux | 10.10.10.147 | 20 pts | Active
 Haystack | Linux | 10.10.10.115 | 20 pts | Active
 WriteUp | Linux | 10.10.10.138 | 20 pts | Active
-SwagShop | Linux | 10.10.10.140 | 20 pts | Active
+[SwagShop](./boxes/20_10%20-%20SwagShop%20(10.10.10.140)) | Linux | 10.10.10.140 | 20 pts | Sep 28, 2019
 [FriendZone](https://github.com/jebidiah-anthony/htb_friendzone) | Linux | 10.10.10.123 | 20 pts | Jul 13, 2019
 [Help](https://github.com/jebidiah-anthony/htb_help) | Linux | 10.10.10.121 | 20 pts | Jun 8, 2019
 [Irked](https://github.com/jebidiah-anthony/htb_irked) | Linux | 10.10.10.117 | 20 pts | Apr 27, 2019
