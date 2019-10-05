@@ -1,5 +1,17 @@
 # HTB KryptOS (10.10.10.129) MACHINE WRITE-UP
 
+### TABLE OF CONTENTS
+* [PART 1 : INITIAL RECON](#part-1--initial-recon)
+* [PART 2 : PORT ENUMERATION](#part-2--port-enumeration)
+* [PART 3 : EXPLOITATION](#part-3--exploitation)
+   * [<strong>PORT 80 (Login Page)</strong>](#port-80-login-page)
+   * [<strong>PORT 80 (encrypt.php)</strong>](#port-80-encryptphp)
+   * [<strong>PORT 80 (sqlite_test_page.php)</strong>](#port-80-sqlite_test_pagephp)
+* [PART 4 : GENERATE USER SHELL](#part-4--generate-user-shell)
+* [PART 5 : PRIVILEGE ESCALATION (rijndael -&gt; root)](#part-5--privilege-escalation-rijndael---root)
+
+---
+
 ## PART 1 : INITIAL RECON
 
 ```console

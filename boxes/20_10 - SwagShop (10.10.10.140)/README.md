@@ -1,5 +1,15 @@
 # HTB SWAGSHOP (10.10.10.140) MACHINE WRITE-UP
 
+### TABLE OF CONTENTS
+* [PART 1 : INITITAL RECON](#part-1--initital-recon)
+* [PART 2 : PORT ENUMERATION](#part-2--port-enumeration)
+   * [PORT 80 (Magento)](#port-80-magento)
+* [PART 3 : EXPLOITATION](#part-3--exploitation)
+* [PART 4 : GENERATE A SHELL](#part-4--generate-a-shell)
+* [PART 5 : PRIVILEGE ESCALATION (www-data -&gt; root)](#part-5--privilege-escalation-www-data---root)
+
+---
+
 ## PART 1 : INITITAL RECON
 
 ```console
@@ -29,7 +39,7 @@ $ nmap -p 22,80 -sC -sV -v 10.10.10.140
 
 ## PART 2 : PORT ENUMERATION
 
-### PORT 80
+### PORT 80 (Magento)
 
 - __`http://10.10.10.140/`__:
 
@@ -147,7 +157,7 @@ $ nmap -p 22,80 -sC -sV -v 10.10.10.140
 
    > The two exploits mentioned above seem to go hand in hand with each other.
 	
-2. Create an admin account using __`37811.py`__:
+2. Create an admin account using __`37977.py`__:
    1. Download the exploit:
       ```console
       $ searchsploit -m exploits/xml/webapps/37977.py
@@ -406,10 +416,10 @@ $ nmap -p 22,80 -sC -sV -v 10.10.10.140
 
 5. Now having a __root__ shell:
    ```console
-   $ cat /home/*/user.txt
+   # cat /home/*/user.txt
      a448877277e82f05e5ddf9f90aefbac8
 
-   $ cat /root/root.txt
+   # cat /root/root.txt
      c2b087d66e14a652a3b86a130ac56721
 
         ___ ___
