@@ -1,54 +1,51 @@
-# HackTheBox Retired Machines (Write-ups)
+# HTB WRITE-UPS
 
-## Insane Boxes
-Box Name | OS | Machine IP | Base Points | Retired
---- | --- | --- | --- | ---
-[KryptOS](./boxes/50_04%20-%20Kryptos%20(10.10.10.129)) | Linux | 10.10.10.129 | 50 pts | Sep 21, 2019
-[CTF](https://github.com/jebidiah-anthony/htb_ctf) | Linux | 10.10.10.122 | 50 pts | Jul 20, 2019
+## [Rooted Retired Machines]
+
+| Box Name | OS | Machine IP | Base Points | Retired |
+|:---------|:---|:-----------|:------------|:--------|
+[Safe](https://jebidiah-anthony.github.io/boxes/33_Safe.html) (NO PRIVESC YET) | <span style="color:green">Linux | <span style="color:green">10.10.10.147 | <span style="color:green">20 pts | Oct 26, 2019
+[Ellingson](https://jebidiah-anthony.github.io/boxes/32_Ellingson.html) | <span style="color:red">Linux | <span style="color:red">10.10.10.139 | <span style="color:red">40 pts | Oct 19, 2019
+[WriteUp](https://jebidiah-anthony.github.io/boxes/31_WriteUp.html) | <span style="color:green">Linux | <span style="color:green">10.10.10.138 | <span style="color:green">20 pts | Oct 12, 2019
+[SwagShop](https://jebidiah-anthony.github.io/boxes/30_swagshop.html) | <span style="color:green">Linux</span> | <span style="color:green">10.10.10.140 | <span style="color:green">20 pts | Sep 28, 2019
+[Kryptos](https://jebidiah-anthony.github.io/boxes/29_kryptos.html) | Linux | 10.10.10.129 | 50 pts | Sep 21, 2019
+[Luke](https://jebidiah-anthony.github.io/boxes/28_Luke.html) | <span style="color:orange">FreeBSD | <span style="color:orange">10.10.10.137 | <span style="color:orange">30 pts | Sep 14, 2019
+[CTF](https://jebidiah-anthony.github.io/boxes/26_CTF.html) | Linux | 10.10.10.122 | 50 pts | Jul 20, 2019
+[FriendZone](https://jebidiah-anthony.github.io/boxes/25_Friendzone.html) | <span style="color:green">Linux | <span style="color:green">10.10.10.123 | <span style="color:green">20 pts | Jul 13, 2019
+[Flujab](https://jebidiah-anthony.github.io/boxes/24_Flujab.html) | <span style="color:red">Linux | <span style="color:red">10.10.10.124 | <span style="color:red">40 pts | Jun 15, 2019
+[Help](https://jebidiah-anthony.github.io/boxes/23_Help.html) | <span style="color:green">Linux | <span style="color:green">10.10.10.121 | <span style="color:green">20 pts | Jun 08, 2019
+[Chaos](https://jebidiah-anthony.github.io/boxes/22_Chaos.html) | <span style="color:orange">Linux | <span style="color:orange">10.10.10.120 | <span style="color:orange">30 pts | May 25, 2019
+[Lightweight](https://jebidiah-anthony.github.io/boxes/21_Lightweight.html) | <span style="color:orange">Linux | <span style="color:orange">10.10.10.119 | <span style="color:orange">30 pts | May 11, 2019
+[Irked](https://jebidiah-anthony.github.io/boxes/20_Irked.html) | <span style="color:green">Linux | <span style="color:green">10.10.10.117 | <span style="color:green">20 pts | Apr 27, 2019
+[Teacher](https://jebidiah-anthony.github.io/boxes/19_Teacher.html) | <span style="color:green">Linux | <span style="color:green">10.10.10.153 | <span style="color:green">20 pts | Apr 20, 2019
+[Mischief](https://jebidiah-anthony.github.io/boxes/15_Mischief.html) | Linux | 10.10.10.92 | 50 pts | Jan 06, 2019
+[Waldo](https://jebidiah-anthony.github.io/boxes/14_Waldo.html) | <span style="color:orange">Linux | <span style="color:orange">10.10.10.87 | <span style="color:orange">30 pts | Dec 16, 2018
+[Active](https://hackedthebox.wordpress.com/htb-active/) | <span style="color:green">Windows | <span style="color:green">10.10.10.100 | <span style="color:green">20 pts | Dec 09, 2018
+[Hawk](https://hackedthebox.wordpress.com/htb-hawk/) | <span style="color:orange">Linux | <span style="color:orange">10.10.10.102 | <span style="color:orange">30 pts | Dec 02, 2018
+[Jerry](https://hackedthebox.wordpress.com/htb-jerry/) | <span style="color:green">Windows | <span style="color:green">10.10.10.95 | <span style="color:green">20 pts | Nov 18, 2018
+[TartarSauce](https://hackedthebox.wordpress.com/htb-tartarsauce/) | <span style="color:orange">Linux | <span style="color:orange">10.10.10.88 | <span style="color:orange">30 pts | Oct 21, 2018
+[DevOops](https://hackedthebox.wordpress.com/htb-dev0ops/) | <span style="color:orange">Linux | <span style="color:orange">10.10.10.91 | <span style="color:orange">30 pts | Oct 14, 2018
+[Sunday](https://hackedthebox.wordpress.com/htb-sunday/) | <span style="color:green">Solaris | <span style="color:green">10.10.10.76 | <span style="color:green">20 pts | Sep 30, 2018
+[Canape](https://hackedthebox.wordpress.com/htb-canape/) | <span style="color:orange">Linux | <span style="color:orange">10.10.10.70 | <span style="color:orange">30 pts | Sep 16, 2018
+[Poison](https://hackedthebox.wordpress.com/htb-poison/) | <span style="color:orange">FreeBSD | <span style="color:orange">10.10.10.84 | <span style="color:orange">30 pts | Sep 09, 2018
+[Stratosphere](https://hackedthebox.wordpress.com/htb-stratosphere/) | <span style="color:orange">Linux | <span style="color:orange">10.10.10.64  | <span style="color:orange">30 pts | Sep 02, 2018
+
+## [Rooted Active Machines]
+
+| Box Name | OS | Machine IP | Base Points | Retired |
+|:---------|:---|:-----------|:------------|:--------|
+Craft | <span style="color:orange">Linux | <span style="color:orange">10.10.10.110 | <span style="color:orange">30 pts | Active
+Bitlab | <span style="color:orange">Linux | <span style="color:orange">10.10.10.114 | <span style="color:orange">30 pts | Active
+
+## [BACKLOG]
+
+| Box Name | OS | Machine IP | Base Points | Retired |
+|:---------|:---|:-----------|:------------|:--------|
+Networked | <span style="color:green">Linux | <span style="color:green">10.10.10.146 | <span style="color:green">20 pts | Nov 16, 2019
+Jarvis | <span style="color:orange">Linux | <span style="color:orange">10.10.10.143 | <span style="color:orange">30 pts | Nov 09, 2019
+Haystack | <span style="color:green">Linux | <span style="color:green">10.10.10.115 | <span style="color:green">20 pts | Nov 02, 2019
+OneTwoSeven | <span style="color:red">Linux | <span style="color:red">10.10.10.133 | <span style="color:red">40 pts | Sep 01, 2019
+Frolic | <span style="color:green">Linux | <span style="color:green">10.10.10.111 | <span style="color:green">20 pts | Mar 24, 2019
+Dab | <span style="color:red">Linux | <span style="color:red">10.10.10.86 | <span style="color:red">40 pts | Feb 02, 2019
 Reddish | Linux | 10.10.10.94 | 50 pts | Jan 26, 2019
-[Mischief](https://hackedthebox.wordpress.com/htb-mischief/) | Linux | 10.10.10.92 | 50 pts | Jan 06, 2019
-
-## Hard Boxes
-Box Name | OS | Machine IP | Base Points | Retired
---- | --- | --- | --- | ---
-Ellingson | Linux | 10.10.10.139 | 40 pts | Active
-OneTwoSeven | Linux | 10.10.10.133 | 40 pts | Sep 1, 2019
-[Flujab](https://github.com/jebidiah-anthony/htb_flujab) | Linux | 10.10.10.124 | 40 pts | Jun 15, 2019
-Dab | Linux | 10.10.10.86 | 40 pts | Feb 02, 2019
-
-## Medium Boxes
-Box Name | OS | Machine IP | Base Points | Retired
---- | --- | --- | --- | ---
-Craft | Linux | 10.10.10.110 | 30 pts | Active
-Jarvis | Linux | 10.10.10.143 | 30 pts | Active
-[Luke](https://github.com/jebidiah-anthony/htb_luke) | FreeBSD | 10.10.10.137 | 30 pts | Sep 14,2019
-[Chaos](https://github.com/jebidiah-anthony/htb_chaos) | Linux | 10.10.10.120 | 30 pts | May 25, 2019
-[Lightweight](https://github.com/jebidiah-anthony/htb_lightweight) | Linux | 10.10.10.119 | 30 pts | May 11, 2019
-[Waldo](https://hackedthebox.wordpress.com/htb-waldo/) | Linux | 10.10.10.87 | 30 pts | Dec 16, 2019
-[Hawk](https://hackedthebox.wordpress.com/htb-hawk/) | Linux | 10.10.10.102 | 30 pts | Dec 02, 2018
-[TartarSauce](https://hackedthebox.wordpress.com/htb-tartarsauce/) | Linux | 10.10.10.88 | 30 pts | Oct 21, 2018
-[DevOops](https://hackedthebox.wordpress.com/htb-dev0ops/) | Linux | 10.10.10.91 | 30 pts | Oct 14, 2018
-Olympus | Linux | 10.10.10.83 | 30 pts | Sep 23, 2018
-[Canape](https://hackedthebox.wordpress.com/htb-canape/) | Linux | 10.10.10.70 | 30 pts | Sep 16, 2018
-[Poison](https://hackedthebox.wordpress.com/htb-poison/) | FreeBSD | 10.10.10.84 | 30 pts | Sep 09, 2018
-[Stratosphere](https://hackedthebox.wordpress.com/htb-stratosphere/) | Linux | 10.10.10.64  | 30 pts | Sep 02, 2018
-Celestial | Linux | 10.10.10.85 | 30 pts | Aug 26, 2018
-Aragog | Linux | 10.10.10.78 | 30 pts | Jul 22, 2018
-
-## Easy Boxes
-Box Name | OS | Machine IP | Base Points | Retired
---- | --- | --- | --- | ---
-Networked | Linux | 10.10.10.146 | 20 pts | Active
-Safe | Linux | 10.10.10.147 | 20 pts | Active
-Haystack | Linux | 10.10.10.115 | 20 pts | Active
-WriteUp | Linux | 10.10.10.138 | 20 pts | Active
-[SwagShop](./boxes/20_10%20-%20SwagShop%20(10.10.10.140)) | Linux | 10.10.10.140 | 20 pts | Sep 28, 2019
-[FriendZone](https://github.com/jebidiah-anthony/htb_friendzone) | Linux | 10.10.10.123 | 20 pts | Jul 13, 2019
-[Help](https://github.com/jebidiah-anthony/htb_help) | Linux | 10.10.10.121 | 20 pts | Jun 8, 2019
-[Irked](https://github.com/jebidiah-anthony/htb_irked) | Linux | 10.10.10.117 | 20 pts | Apr 27, 2019
-[Teacher](https://github.com/jebidiah-anthony/htb_teacher) | Linux | 10.10.10.153 | 20 pts | Apr 20, 2019
-Frolic | Linux | 10.10.10.111 | 20 pts | Mar 24, 2019
-[Active](https://hackedthebox.wordpress.com/htb-active/) | Windows | 10.10.10.100 | 20 pts | Dec 09, 2018
-[Jerry](https://hackedthebox.wordpress.com/htb-jerry/) | Windows | 10.10.10.95 | 20 pts | Nov 18, 2018
-[Sunday](https://hackedthebox.wordpress.com/htb-sunday/) | Solaris | 10.10.10.76 | 20 pts | Sep 30, 2018
-Valentine | Linux | 10.10.10.79 | 20 pts | Jul 29, 2018
+Olympus | <span style="color:orange">Linux | <span style="color:orange">10.10.10.83 | <span style="color:orange">30 pts | Sep 23, 2018
